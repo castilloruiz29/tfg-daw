@@ -16,5 +16,8 @@ Muchos pequeños establecimientos todavía gestionan sus citas mediante llamadas
 - Reservas online y gestión de citas.
 - Prevención de solapamientos horarios.
 
+## Estado del proyecto
+Fase inicial de análisis y planificación. Pendiente de comenzar el desarrollo de la aplicación.
+
 ## Documentación
 La documentación técnica y de planificación se encuentra en la carpeta [docs](docs/).
